@@ -7,7 +7,7 @@ function App() {
       <h1>Starwars</h1>
       <Table />
     </div>
-  )
+  );
 }
 
 export default App;
